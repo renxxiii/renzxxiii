@@ -35,7 +35,7 @@
 
 ---
 
-<!-->
+<!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" />][portfolio] 
 -->
 
