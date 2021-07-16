@@ -88,14 +88,11 @@
 ---
 
 <span>
-<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;"> 
- 
- 
+<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
  
  <a href="https://github.com/renzxxiii">
     <img src="https://badges.pufler.dev/visits/renzxxiii/renzxxiii?style=flat-square&color=blue&logo=github">
   </a>
- 
 <a href="https://github.com/renzxxiii?tab=followers"><img src="https://img.shields.io/github/followers/renzxxiii?label=Followers&style=social" alt="GitHub Badge"></a>
 </span>
 
