@@ -12,9 +12,9 @@
 
 <!-- - 👀 I’m interested in ... -->
 
-<!-- - 🔭 I’m currently working on **[](https://example.com/)** -->
+- 🔭 I’m currently working on my __personal projects.__
 
-- 🌱 I’m currently enhancing my web development knowledge.
+- 🌱 I’m currently enhancing my __web development knowledge.__
 
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
 
