@@ -10,7 +10,7 @@
 
 
 
-- 👀 Interested in __full-stack web development.__
+- 🧐 Interested in __full-stack web development.__
 
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
 
