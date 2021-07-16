@@ -5,8 +5,6 @@
 # Hello <img src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
 
 
-
-
 <!-- ## Hi there, I'm Renz  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 ### About Me
 
@@ -37,8 +35,6 @@
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 
-
- 
 <br>
 
 ### 🛠 Technologies & Tools:
@@ -65,18 +61,17 @@
 <img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- </div>
  
-<br>
-
+</div>
+ 
 ---
 
 ### 📈 My Github Stats
 
-  <br/>
+  <br>
     <a href="https://github.com/renzxxiii/github-readme-stats"><img alt="Renz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renzxxiii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <a href="https://github.com/renzxxiii/github-readme-stats"><img alt="Renz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzxxiii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-  <br/>
+  <br>
  
 <p align="center">
     <a href="https://github.com/renzxxiii/github-readme-streak-stats">
@@ -94,7 +89,7 @@
 
 ---
 
- <span>
+<span>
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=renzxxiii">
@@ -102,25 +97,6 @@
 <a href="https://github.com/renzxxiii?tab=followers"><img src="https://img.shields.io/github/followers/renzxxiii?label=Followers&style=social" alt="GitHub Badge"></a>
 </span>
 
-<!--
-[<img align="left" alt="Portfolio" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" />][portfolio] 
--->
-
-<!-- soon
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" style="max-width:100%;">
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;"> -->
-
-
- 
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
-<!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 
 
 
