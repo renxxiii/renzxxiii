@@ -96,7 +96,10 @@
  <a href="https://github.com/renzxxiii">
     <img src="https://badges.pufler.dev/visits/renzxxiii/renzxxiii?style=flat-square&color=blue&logo=github">
   </a>
-<a href="https://github.com/renzxxiii?tab=followers"><img src="https://img.shields.io/github/followers/renzxxiii?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ <img  src="https://img.shields.io/github/last-commit/renzxxiii/renzxxiii?label=Last%20Update&color=blue" alt="Last Update">
+ <a href="https://github.com/renzxxiii?tab=followers"><img src="https://img.shields.io/github/followers/renzxxiii?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
 </span>
 
 
