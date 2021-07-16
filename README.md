@@ -10,11 +10,9 @@
 
 
 
-<!-- - 👀 I’m interested in ... -->
+- 👀 Interested in __full-stack web development.__
 
-- 🔭 I’m currently working on my __personal projects.__
-
-- 🌱 I’m currently enhancing my __web development knowledge.__
+- 🔭 Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
 
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
 
