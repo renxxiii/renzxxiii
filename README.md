@@ -4,31 +4,34 @@
 
 # Hello <img src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
 
+Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, an aspiring __full-stack web developer and software engineer__. 
+
 
 <!-- ## Hi there, I'm Renz  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 ### About Me
 
 
 
-- 🧐 Interested in __full-stack web development.__
+- <img alt="Hyper Kitty" src="https://github.com/ImaLoner/ImaLoner/blob/bd15003bb5e41e6e877c323a243e58253446418c/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack web development.__
 
-- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
-
+- <img alt="Cat Computer" src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
 
 
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://example.com)**  -->
+
 
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/renzbongot/** -->
 
-- <img src="https://github.com/ImaLoner/ImaLoner/blob/b05b69c44524aa4a9cbf8d64cfba7122af9e49b1/assets/gifs/cat-meme.gif" width="25px"> Fun fact __I love cats. The most common activities I engage in are playing online games and watching movies.__
+- <img alt="Cat Meme" src="https://github.com/ImaLoner/ImaLoner/blob/b05b69c44524aa4a9cbf8d64cfba7122af9e49b1/assets/gifs/cat-meme.gif" width="30px"> Fun fact __I love cats. The most common activities I engage in are playing online games and watching movies.__
 
 
 
-<!-- My work examples -->
-<!-- ### Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="300" > -->
+<!-- My work examples --> 
+### **[My Portfolio][portfolio]** 
+#### Example Projects 
+>work in progress
+<!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="300" > -->
 
 
 ### 🤝🏻 Connect with me:
@@ -62,12 +65,15 @@
 <img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="XAMPP" width="40px" src="https://github.com/ImaLoner/ImaLoner/blob/23cec741e661d26ad8c0d0e2b208b6b6364b4ec8/assets/pictures/xampp-logo.png" />
+<img  alt="Windows" width="30px" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" />
  
 </div>
  
 ---
 
-### 📈 My Github Stats
+<details>
+<summary>📈 My Github Stats</summary> 
 
   <br>
     <a href="https://github.com/renzxxiii/github-readme-stats"><img alt="Renz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renzxxiii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
@@ -82,13 +88,9 @@
 <br>
 <br>
 
-
-
-
-[portfolio]: http://portfolio.com
-[linkedin]: https://www.linkedin.com/in/renz-bongot/
-
 ---
+ 
+</details>
 
 <span>
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
@@ -105,3 +107,5 @@
 
 
 
+[portfolio]: http://portfolio.com
+[linkedin]: https://www.linkedin.com/in/renz-bongot/
