@@ -4,17 +4,16 @@
 
 # Hello <img src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
 
-Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, an aspiring __full-stack web developer and software engineer__. 
-
+Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, an aspiring __full-stack web developer and software engineer__. As of now, I am using the __WAMP STACK__.  
 
 <!-- ## Hi there, I'm Renz  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 ### About Me
 
 
 
-- <img alt="Hyper Kitty" src="https://github.com/ImaLoner/ImaLoner/blob/bd15003bb5e41e6e877c323a243e58253446418c/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack web development.__
+- <img alt="Hyper Kitty" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack web development.__
 
-- <img alt="Cat Computer" src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
+- <img alt="Cat Computer" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
 
 
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
@@ -23,7 +22,7 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/renzbongot/** -->
 
-- <img alt="Cat Meme" src="https://github.com/ImaLoner/ImaLoner/blob/b05b69c44524aa4a9cbf8d64cfba7122af9e49b1/assets/gifs/cat-meme.gif" width="30px"> Fun fact __I love cats. The most common activities I engage in are playing online games and watching movies.__
+- <img alt="Cat Meme" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-meme.gif" width="30px"> Fun fact __I love cats. The most common activities I engage in are playing online games and watching movies.__
 
 
 
