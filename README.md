@@ -11,8 +11,11 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 ### About Me
 
 
-
 - <img alt="Hyper Kitty" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack web development.__
+
+
+
+<img align="right" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/manherakun-cat-min.gif" width="150">
 
 - <img alt="Cat Computer" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
 
@@ -20,6 +23,7 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
 
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/renzbongot/** -->
+
 
 - <img alt="Cat Meme" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-meme.gif" width="30px"> Fun facts :  __I love cats. The most common activities I engage in, aside from learning web development and technologies, are playing online games and watching movies.__
 
@@ -64,6 +68,7 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 
 ---
 
+<img align="right" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/chibi-thumbs-up-min.gif" width="150">
 <details>
 <summary>📈 My Github Stats</summary> 
 
