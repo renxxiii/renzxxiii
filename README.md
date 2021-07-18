@@ -2,8 +2,13 @@
 
 
 
+
 # Hello, I'm [Renz](https://github.com/renzxxiii/renzxxiii)
-<img align="right"  alt="Anime waving" src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
+
+<img align="right"  alt="Chibi Salute" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/salute-manherakun-min.gif" width="150">
+
+
+
 
 Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, and aspiring to become a __full-stack web developer and software engineer__. As of now, I am using the __WAMP STACK__.  
 
@@ -30,7 +35,7 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 
 
 <!-- My work examples --> 
-### **[My Portfolio][portfolio]** 
+### <img alt="Portfolio icon" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/pictures/files-image-sm.png" width="20px"> **[My Portfolio][portfolio]** 
 #### Example Projects 
 >work in progress
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="300" > -->
@@ -94,8 +99,6 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
  
 
 <p align="center">
-
-<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" alt="space cat" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
 
  <a href="https://github.com/renzxxiii">
     <img src="https://badges.pufler.dev/visits/renzxxiii/renzxxiii?style=flat-square&color=blue&logo=github">
