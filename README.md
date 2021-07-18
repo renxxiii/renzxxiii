@@ -2,7 +2,8 @@
 
 
 
-# Hello <img src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
+# Hello, I'm [Renz](https://github.com/renzxxiii/renzxxiii)
+<img align="right" src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
 
 Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, and aspiring to become a __full-stack web developer and software engineer__. As of now, I am using the __WAMP STACK__.  
 
@@ -18,11 +19,9 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
 
-
-
 <!-- - 📫 How to reach me **https://www.linkedin.com/in/renzbongot/** -->
 
-- <img alt="Cat Meme" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-meme.gif" width="30px"> Fun fact __I love cats. The most common activities I engage in are playing online games and watching movies.__
+- <img alt="Cat Meme" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-meme.gif" width="30px"> Fun facts :  __I love cats. The most common activities I engage in, aside from learning web development and technologies, are playing online games and watching movies.__
 
 
 
