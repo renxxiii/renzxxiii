@@ -3,7 +3,7 @@
 
 
 # Hello, I'm [Renz](https://github.com/renzxxiii/renzxxiii)
-<img align="right" src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
+<img align="right"  alt="Anime waving" src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
 
 Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, and aspiring to become a __full-stack web developer and software engineer__. As of now, I am using the __WAMP STACK__.  
 
@@ -15,7 +15,7 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/manherakun-cat-min.gif" width="150">
+<img align="right" alt="Chibi Cat Lover" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/manherakun-cat-min.gif" width="150">
 
 - <img alt="Cat Computer" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
 
@@ -68,7 +68,6 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/chibi-thumbs-up-min.gif" width="150">
 <details>
 <summary>📈 My Github Stats</summary> 
 
@@ -89,17 +88,25 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
  
 </details>
 
-<span>
-<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
+<p align="center">
+ <img  alt="Chibi Thumbs Up" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/chibi-thumbs-up-min.gif" width="150">
+</p>
  
+
+<p align="center">
+
+<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" alt="space cat" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
+
  <a href="https://github.com/renzxxiii">
     <img src="https://badges.pufler.dev/visits/renzxxiii/renzxxiii?style=flat-square&color=blue&logo=github">
   </a>
 
- <img  src="https://img.shields.io/github/last-commit/renzxxiii/renzxxiii?label=Last%20Update&color=blue" alt="Last Update">
+ <img src="https://img.shields.io/github/last-commit/renzxxiii/renzxxiii?label=Last%20Update&color=blue" alt="Last Update">
  <a href="https://github.com/renzxxiii?tab=followers"><img src="https://img.shields.io/github/followers/renzxxiii?label=Followers&style=social" alt="GitHub Badge"></a>
  
-</span>
+</p>
+
+
 
 
 
