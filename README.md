@@ -5,7 +5,7 @@
 
 # Hello, I'm [Renz](https://github.com/renzxxiii/renzxxiii)
 
-<img align="right"  alt="Chibi Salute" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/salute-manherakun-min.gif" width="150">
+<img align="right"  alt="Chibi Salute" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/salute-manherakun-min.gif" width="120">
 
 
 
