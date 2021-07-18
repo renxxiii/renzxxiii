@@ -37,7 +37,7 @@ Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Informat
 <!-- My work examples --> 
 ### <img alt="Portfolio icon" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/pictures/files-image-sm.png" width="20px"> **[My Portfolio][portfolio]** 
 #### Example Projects 
->work in progress
+> <img alt="cat coding" width="100" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheen-code-min.gif" > work in progress...
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="300" > -->
 
 
