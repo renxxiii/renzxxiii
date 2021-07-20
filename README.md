@@ -14,7 +14,7 @@
 Welcome to my profile! I'm a fresh graduate of __Bachelor of Science in Information Technology__, and aspiring to become a __full-stack web developer and software engineer__. As of now, I am using the __WAMP STACK__.  
 
 <!-- ## Hi there, I'm Renz  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-### About Me
+### 👨🏻‍💻 About Me
 
 
 - <img alt="Hyper Kitty" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack web development.__
