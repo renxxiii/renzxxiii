@@ -2,8 +2,9 @@
 
 
 
-
 # Hello, I'm [Renz](https://github.com/renzxxiii/renzxxiii)
+
+<img alt="Name Banner" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner-final.gif" width="100%" >
 
 <img align="right"  alt="Chibi Salute" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/salute-manherakun-min.gif" width="120">
 
