@@ -110,7 +110,9 @@ Welcome to my profile! I'm a recent graduate of __Bachelor of Science in Informa
  
 </p>
 
-
+<p align="center">
+ <img src="https://www.codewars.com/users/renzxxiii/badges/micro"> 
+ </p>
 
 
 
